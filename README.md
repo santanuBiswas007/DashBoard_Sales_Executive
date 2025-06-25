@@ -27,3 +27,8 @@ How many executives met or exceeded their sales targets?
 
 ##Tools & Technologies Used
 Excel – Initial data cleaning and EDA
+
+## Dash Board
+![SalesDB](https://github.com/user-attachments/assets/9d63898e-f936-4e2c-840d-2c2b46b6ca91)
+
+
